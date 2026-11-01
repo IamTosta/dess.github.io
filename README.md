@@ -1,7 +1,13 @@
 <html lang='en'>
-    <div id="center">
+<head>
+  <meta content='text/html; charset=UTF-8' http-equiv='Content-Type'>
+  <meta charset='utf-8'>
+  <meta content='width=device-width' name='viewport'>
+  <meta content='#000000' name='theme-color'>
+  <meta content='noindex' name='robots'>
+<div id="center">
 <div class="dess">
-<img alt="Red guitar" src="guitar.gif">
+    <img alt="Red guitar" src="guitar.gif">
 </div>
 </div>
 <style>
