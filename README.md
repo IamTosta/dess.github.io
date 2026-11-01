@@ -3,7 +3,7 @@
 <link href='/assets/css/extra.css' rel='stylesheet' type='extra_Zec6.css'>
 <div class="dess">
 <img alt="Red guitar" src="guitar.gif">
-  <style>
+<style>
   .dess {
     min-width: 320px;
     max-width: 100%;
