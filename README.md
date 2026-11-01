@@ -15,7 +15,7 @@
 
     <div id="center">
 <div class="dess">
-<img alt="Red guitar" src="/assets/images/guitar.gif">
+<img alt="Red guitar" src="guitar.gif">
 </div>
 </div>
 <style>
