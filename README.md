@@ -1,18 +1,4 @@
 <html lang='en'>
-<head>
-  <meta content='text/html; charset=UTF-8' http-equiv='Content-Type'>
-  <meta charset='utf-8'>
-  <meta content='width=device-width' name='viewport'>
-  <meta content='#000000' name='theme-color'>
-  <meta content='noindex' name='robots'>
-  <title>* (It's a red guitar.)</title>
-  <link href='/assets/css/extra.css' rel='stylesheet' type='text/css'>
-</head>
-<body>
-  <main>
-    <script crossorigin='anonymous' integrity='sha512-yBpuflZmP5lwMzZ03hiCLzA94N0K2vgBtJgqQ2E1meJzmIBfjbb7k4Y23k2i2c/rIeSUGc7jojyIY5waK3ZxCQ==' referrerpolicy='no-referrer' src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.slim.min.js'></script>
-    <script crossorigin='anonymous' integrity='sha512-6+YN/9o9BWrk6wSfGxQGpt3EUK6XeHi6yeHV+TYD2GR0Sj/cggRpXr1BrAQf0as6XslxomMUxXp2vIl+fv0QRA==' referrerpolicy='no-referrer' src='https://cdnjs.cloudflare.com/ajax/libs/howler/2.2.3/howler.min.js'></script>
-
     <div id="center">
 <div class="dess">
 <img alt="Red guitar" src="guitar.gif">
