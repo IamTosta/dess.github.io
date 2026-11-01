@@ -24,7 +24,7 @@
 </style>
 <script>
   var dess = new Howl({
-    src: ['/assets/audio/findher.ogg', '/assets/audio/findher.mp3'],
+    src: ['find_her.ogg.mp3', '/assets/audio/findher.mp3'],
     volume: 0.5,
     loop: true
   });
